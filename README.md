@@ -1,1 +1,9 @@
-# EndscopeTool
+# EndscopeTool 技术服务支持
+# 有问题的可以留言。
+# 邮箱地址：htaerb@qq.com
+# 谢谢!
+
+# EndscopeTool technical service support
+# if you have any question, please contact me with no hesitate
+# email: htaerb@qq.com
+# Thank you!
